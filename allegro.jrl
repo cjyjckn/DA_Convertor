@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Jul 31 16:25:27 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=4512 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\DA_Convertor\DA_Convertor.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/user/Desktop/DA_Convertor/DA_Convertor.brd
+\i (00:00:04) trapsize 540
+\i (00:00:04) trapsize 553
+\i (00:00:04) trapsize 565
+\i (00:00:04) trapsize 552
+\i (00:00:04) trapsize 8839
+\i (00:00:05) generaledit 
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Wed Jul 31 16:25:32 2019

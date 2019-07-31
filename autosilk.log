@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : DC_Convertor.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 16:10:36 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.000
+Max Text displacement is 2.540
+Min Line Length is 0.000
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '***' is not at a suitable location
+(location: 54.189, 43.200)
+Text string '***' is not at a suitable location
+(location: 25.857, 21.641)
+Text string '***' is not at a suitable location
+(location: 25.857, 20.371)
+Text string '***' is not at a suitable location
+(location: 49.987, 19.736)
+Text string '***' is not at a suitable location
+(location: 49.987, 18.466)
+Text string 'LM741_1_DIP8_3_LM741' is not at a suitable location
+(location: 94.017, 19.641)
+Text string '74LS90_0_DIP14_3_74LS90' is not at a suitable location
+(location: 66.675, 40.640)
+Text string '74LS90' is not at a suitable location
+(location: 66.675, 38.100)
+
+Total Failures: 8
+
+Log End
+

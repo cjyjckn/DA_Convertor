@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : DC_Convertor.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 15:57:11 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (13.480 21.322)  Net: GND
